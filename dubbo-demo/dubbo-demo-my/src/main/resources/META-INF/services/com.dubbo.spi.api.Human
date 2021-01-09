@@ -1,0 +1,3 @@
+xiaoming=com.dubbo.spi.instance.XiaoMing
+jayChou=com.dubbo.spi.instance.JayChou
+humanWrapper=com.dubbo.spi.instance.HumanWrapper
