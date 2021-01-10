@@ -1,0 +1,2 @@
+defaultAdaptiveInstance=com.dubbo.spi.instance.DefaultAdaptiveImplementWithAdaptive
+defaultTest=com.dubbo.spi.instance.DefaultTest

@@ -9,6 +9,7 @@ import org.apache.dubbo.common.extension.SPI;
  */
 @SPI
 public interface Car {
+
     @Adaptive("carName")
     void move(URL url);
 }
