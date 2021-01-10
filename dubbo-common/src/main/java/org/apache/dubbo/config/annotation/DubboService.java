@@ -17,6 +17,8 @@
 package org.apache.dubbo.config.annotation;
 
 
+import org.springframework.stereotype.Component;
+
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Inherited;
@@ -36,6 +38,7 @@ import static org.apache.dubbo.common.constants.CommonConstants.DEFAULT_RETRIES;
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.TYPE})
 @Inherited
+@Component
 public @interface DubboService {
 
     /**

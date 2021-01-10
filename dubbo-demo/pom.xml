@@ -49,4 +49,11 @@
         </dependencies>
     </dependencyManagement>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+            <version>5.2.11.RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
