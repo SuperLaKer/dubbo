@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09dd66f7-39c6-45f1-beaf-1016ce4a5029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-all/dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-all/dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-bom/dubbo-bom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-bom/dubbo-bom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-build-tools/dubbo-build-tools.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-build-tools/dubbo-build-tools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-cluster/dubbo-cluster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-cluster/dubbo-cluster.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-common/dubbo-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-common/dubbo-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/config/annotation/DubboService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-common/src/main/java/org/apache/dubbo/config/annotation/DubboService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-compatible/dubbo-compatible.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-compatible/dubbo-compatible.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-config/dubbo-config-api/dubbo-config-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-config/dubbo-config-api/dubbo-config-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/dubbo-config-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/dubbo-config-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/beans/factory/annotation/ServiceClassPostProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-config/dubbo-config-spring/src/main/java/org/apache/dubbo/config/spring/beans/factory/annotation/ServiceClassPostProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-config/dubbo-config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-config/dubbo-config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-apollo/dubbo-configcenter-apollo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-apollo/dubbo-configcenter-apollo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-consul/dubbo-configcenter-consul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-consul/dubbo-configcenter-consul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-etcd/dubbo-configcenter-etcd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-etcd/dubbo-configcenter-etcd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-nacos/dubbo-configcenter-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-nacos/dubbo-configcenter-nacos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-zookeeper/dubbo-configcenter-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter-zookeeper/dubbo-configcenter-zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-configcenter/dubbo-configcenter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-container/dubbo-container-api/dubbo-container-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-container/dubbo-container-api/dubbo-container-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-container/dubbo-container-log4j/dubbo-container-log4j.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-container/dubbo-container-log4j/dubbo-container-log4j.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-container/dubbo-container-logback/dubbo-container-logback.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-container/dubbo-container-logback/dubbo-container-logback.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-container/dubbo-container-spring/dubbo-container-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-container/dubbo-container-spring/dubbo-container-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-container/dubbo-container.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-container/dubbo-container.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/src/main/java/org/apache/dubbo/demo/provider/ApplicationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation-provider/src/main/java/org/apache/dubbo/demo/provider/ApplicationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-annotation/dubbo-demo-annotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-interface/dubbo-demo-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-interface/dubbo-demo-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-my/dubbo-demo-my.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-my/dubbo-demo-my.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-my/src/main/java/com/dubbo/spring/DubboSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-my/src/main/java/com/dubbo/spring/DubboSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-consumer/dubbo-demo-xml-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-consumer/dubbo-demo-xml-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-provider/dubbo-demo-xml-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml-provider/dubbo-demo-xml-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo-xml/dubbo-demo-xml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-dependencies-bom/dubbo-dependencies-bom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-dependencies-bom/dubbo-dependencies-bom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-dependencies/dubbo-dependencies-zookeeper/dubbo-dependencies-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-dependencies/dubbo-dependencies-zookeeper/dubbo-dependencies-zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-dependencies/dubbo-dependencies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-dependencies/dubbo-dependencies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-distribution/dubbo-distribution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-distribution/dubbo-distribution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-filter/dubbo-filter-cache/dubbo-filter-cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-filter/dubbo-filter-cache/dubbo-filter-cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-filter/dubbo-filter-validation/dubbo-filter-validation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-filter/dubbo-filter-validation/dubbo-filter-validation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-filter/dubbo-filter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-filter/dubbo-filter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-api/dubbo-metadata-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-api/dubbo-metadata-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-definition-protobuf/dubbo-metadata-definition-protobuf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-definition-protobuf/dubbo-metadata-definition-protobuf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-processor/dubbo-metadata-processor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-processor/dubbo-metadata-processor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-consul/dubbo-metadata-report-consul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-consul/dubbo-metadata-report-consul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-etcd/dubbo-metadata-report-etcd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-etcd/dubbo-metadata-report-etcd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-nacos/dubbo-metadata-report-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-nacos/dubbo-metadata-report-nacos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-redis/dubbo-metadata-report-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-redis/dubbo-metadata-report-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-zookeeper/dubbo-metadata-report-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata-report-zookeeper/dubbo-metadata-report-zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-metadata/dubbo-metadata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-api/dubbo-monitor-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-api/dubbo-monitor-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-default/dubbo-monitor-default.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-default/dubbo-monitor-default.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-plugin/dubbo-auth/dubbo-auth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-plugin/dubbo-auth/dubbo-auth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-plugin/dubbo-plugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-plugin/dubbo-plugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/dubbo-qos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/dubbo-qos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-api/dubbo-registry-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-api/dubbo-registry-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-consul/dubbo-registry-consul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-consul/dubbo-registry-consul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-default/dubbo-registry-default.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-default/dubbo-registry-default.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-etcd3/dubbo-registry-etcd3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-etcd3/dubbo-registry-etcd3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-eureka/dubbo-registry-eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-eureka/dubbo-registry-eureka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multicast/dubbo-registry-multicast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multicast/dubbo-registry-multicast.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multiple/dubbo-registry-multiple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-multiple/dubbo-registry-multiple.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-nacos/dubbo-registry-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-nacos/dubbo-registry-nacos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-redis/dubbo-registry-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-redis/dubbo-registry-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-sofa/dubbo-registry-sofa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-sofa/dubbo-registry-sofa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-zookeeper/dubbo-registry-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry-zookeeper/dubbo-registry-zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-api/dubbo-remoting-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-api/dubbo-remoting-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/dubbo-remoting-etcd3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-etcd3/dubbo-remoting-etcd3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-grizzly/dubbo-remoting-grizzly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-grizzly/dubbo-remoting-grizzly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-http/dubbo-remoting-http.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-http/dubbo-remoting-http.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-mina/dubbo-remoting-mina.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-mina/dubbo-remoting-mina.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty/dubbo-remoting-netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty/dubbo-remoting-netty.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/dubbo-remoting-netty4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-netty4/dubbo-remoting-netty4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-p2p/dubbo-remoting-p2p.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-p2p/dubbo-remoting-p2p.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-zookeeper/dubbo-remoting-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting-zookeeper/dubbo-remoting-zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-remoting/dubbo-remoting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-api/dubbo-rpc-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-api/dubbo-rpc-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/dubbo-rpc-dubbo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-dubbo/dubbo-rpc-dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-grpc/dubbo-rpc-grpc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-grpc/dubbo-rpc-grpc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-hessian/dubbo-rpc-hessian.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-hessian/dubbo-rpc-hessian.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-http/dubbo-rpc-http.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-http/dubbo-rpc-http.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-injvm/dubbo-rpc-injvm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-injvm/dubbo-rpc-injvm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-memcached/dubbo-rpc-memcached.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-memcached/dubbo-rpc-memcached.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-native-thrift/dubbo-rpc-native-thrift.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-native-thrift/dubbo-rpc-native-thrift.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-redis/dubbo-rpc-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-redis/dubbo-rpc-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/dubbo-rpc-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rest/dubbo-rpc-rest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rmi/dubbo-rpc-rmi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-rmi/dubbo-rpc-rmi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-thrift/dubbo-rpc-thrift.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-thrift/dubbo-rpc-thrift.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-webservice/dubbo-rpc-webservice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-webservice/dubbo-rpc-webservice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-xml/dubbo-rpc-xml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc-xml/dubbo-rpc-xml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-rpc/dubbo-rpc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-api/dubbo-serialization-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-api/dubbo-serialization-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-avro/dubbo-serialization-avro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-avro/dubbo-serialization-avro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fastjson/dubbo-serialization-fastjson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fastjson/dubbo-serialization-fastjson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fst/dubbo-serialization-fst.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-fst/dubbo-serialization-fst.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-gson/dubbo-serialization-gson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-gson/dubbo-serialization-gson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-hessian2/dubbo-serialization-hessian2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-hessian2/dubbo-serialization-hessian2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-jdk/dubbo-serialization-jdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-jdk/dubbo-serialization-jdk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-kryo/dubbo-serialization-kryo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-kryo/dubbo-serialization-kryo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-native-hession/dubbo-serialization-native-hession.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-native-hession/dubbo-serialization-native-hession.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protobuf/dubbo-serialization-protobuf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protobuf/dubbo-serialization-protobuf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protostuff/dubbo-serialization-protostuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-protostuff/dubbo-serialization-protostuff.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-test/dubbo-serialization-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization-test/dubbo-serialization-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-serialization/dubbo-serialization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="threads" value="1C" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx4000m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dmaven.test.skip -Dmaven.compile.fork=true" />
+  </component>
+  <component name="ProjectId" id="dubbo-278notes" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.splitter.proportion" value="0.2542373" />
+  </component>
+  <component name="RunManager" selected="Application.ApplicationProvider">
+    <configuration name="ApplicationProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.dubbo.demo.provider.ApplicationProvider" />
+      <module name="dubbo-demo-annotation-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.dubbo.demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.spi.TheMain" />
+      <module name="dubbo-demo-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.spi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationProvider" />
+        <item itemvalue="Application.TheMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09dd66f7-39c6-45f1-beaf-1016ce4a5029" name="Default Changelist" comment="" />
+      <created>1610257712126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610257712126</updated>
+      <workItem from="1610257720321" duration="125000" />
+      <workItem from="1610257858454" duration="207000" />
+      <workItem from="1610258168454" duration="84000" />
+      <workItem from="1610258273048" duration="51000" />
+      <workItem from="1610258336318" duration="95000" />
+      <workItem from="1610258512524" duration="186000" />
+      <workItem from="1610258712562" duration="54000" />
+      <workItem from="1610258780802" duration="294000" />
+      <workItem from="1610259087970" duration="519000" />
+      <workItem from="1610259620559" duration="7459000" />
+    </task>
+    <task id="LOCAL-00001" summary="dubbo-Spring">
+      <created>1610259525861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610259525861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dubbo-Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo-Spring" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="166" width="1150" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610258865977">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="414" y="166" width="1150" height="698" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1610258865977" />
+    <state x="414" y="284" width="1010" height="682" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1610259605470">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="414" y="284" width="1010" height="682" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1610259605470" />
+    <state x="563" y="160" width="784" height="730" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1610260475840">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="563" y="160" width="784" height="730" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1610260475840" />
+    <state x="401" y="206" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1610261738488">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="401" y="206" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1920.1030@0.0.1920.1030" timestamp="1610261738488" />
+    <state x="827" y="184" width="699" height="662" key="#xdebugger.XInspectDialog" timestamp="1610261658735">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="827" y="184" width="699" height="662" key="#xdebugger.XInspectDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1610261658735" />
+    <state x="100" y="0" key="CommitChangelistDialog2" timestamp="1610259525613">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="100" y="0" key="CommitChangelistDialog2/0.0.1920.1030@0.0.1920.1030" timestamp="1610259525613" />
+    <state width="1712" height="622" key="DebuggerActiveHint" timestamp="1610264934632">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1712" height="622" key="DebuggerActiveHint/0.0.1920.1030@0.0.1920.1030" timestamp="1610264934632" />
+    <state x="657" y="187" key="FileChooserDialogImpl" timestamp="1610259592797">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="657" y="187" key="FileChooserDialogImpl/0.0.1920.1030@0.0.1920.1030" timestamp="1610259592797" />
+    <state width="1862" height="579" key="GridCell.Tab.0.bottom" timestamp="1610266406477">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406477" />
+    <state width="1862" height="579" key="GridCell.Tab.0.center" timestamp="1610266406477">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406477" />
+    <state width="1862" height="579" key="GridCell.Tab.0.left" timestamp="1610266406477">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406477" />
+    <state width="1862" height="579" key="GridCell.Tab.0.right" timestamp="1610266406477">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406477" />
+    <state width="1862" height="579" key="GridCell.Tab.1.bottom" timestamp="1610266406359">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.1.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406359" />
+    <state width="1862" height="579" key="GridCell.Tab.1.center" timestamp="1610266406359">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.1.center/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406359" />
+    <state width="1862" height="579" key="GridCell.Tab.1.left" timestamp="1610266406359">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.1.left/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406359" />
+    <state width="1862" height="579" key="GridCell.Tab.1.right" timestamp="1610266406359">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="579" key="GridCell.Tab.1.right/0.0.1920.1030@0.0.1920.1030" timestamp="1610266406359" />
+    <state x="329" y="52" width="1271" height="925" key="SettingsEditor" timestamp="1610266425555">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="329" y="52" width="1271" height="925" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1610266425555" />
+    <state width="623" height="556" key="SwitcherDM" timestamp="1610262642911">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="623" height="556" key="SwitcherDM/0.0.1920.1030@0.0.1920.1030" timestamp="1610262642911" />
+    <state x="460" y="178" key="Vcs.Push.Dialog.v2" timestamp="1610259532753">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="460" y="178" key="Vcs.Push.Dialog.v2/0.0.1920.1030@0.0.1920.1030" timestamp="1610259532753" />
+    <state x="363" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1610264552410">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="363" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1030@0.0.1920.1030" timestamp="1610264552410" />
+    <state x="539" y="0" width="840" height="1028" key="search.everywhere.popup" timestamp="1610266385182">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="539" y="0" width="840" height="1028" key="search.everywhere.popup/0.0.1920.1030@0.0.1920.1030" timestamp="1610266385182" />
+    <state x="154" y="97" key="spring file set editor" timestamp="1610260534567">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="154" y="97" key="spring file set editor/0.0.1920.1030@0.0.1920.1030" timestamp="1610260534567" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;ServiceBean:org.apache.dubbo.demo.DemoService&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>839</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;ServiceBean:org.apache.dubbo.demo.DemoService&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>845</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;ServiceBean:org.apache.dubbo.demo.DemoService&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
+          <line>859</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java</url>
+          <line>287</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

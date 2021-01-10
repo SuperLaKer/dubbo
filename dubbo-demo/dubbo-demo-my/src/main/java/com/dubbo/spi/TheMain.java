@@ -1,7 +1,6 @@
 package com.dubbo.spi;
 
 import com.dubbo.spi.api.Car;
-import com.dubbo.spi.api.DefaultAdaptive;
 import com.dubbo.spi.api.Human;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.common.extension.ExtensionLoader;
@@ -10,25 +9,25 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 测试dubbo的一些功能
  * @author lla, 2021/1/4  9:10
  */
 public class TheMain {
     public static void main(String[] args) {
-
-        getProxyObject();
-        // autoDI("jayChou", "ae86");
+        autoDI("jayChou", "ae86");
         // getCar("ae86");
         // getHuman("xiaoming");
     }
 
     /**
-     * jayChou这个类有一个Car car属性，car需要根据SPI自动注入
-     *
-     * SPI属性 @SPI Car car{}
-     * @param spiName 获取哪个类
-     * @param spiFieldName 类中有一个spi属性(根据情况注入，spring可以使用map实现自动注入)
+     * 注解@Adaptive: 可以放到类上、接口的抽象方法上（根据URL确定使用哪个实现类）
      */
-    private static void autoDI(String spiName, String spiFieldName){
+    private static void defaultExtension(){
+        // TestInterface object = extensionLoader.getAdaptiveExtension()
+        // object指向添加了@Adaptive注解的哪个类
+    }
+
+    private static void autoDI(String humanName, String carName){
         Map<String, String> map = new HashMap<>();
         map.put("carName", spiFieldName);
         URL url = new URL("", "", 1, map);
