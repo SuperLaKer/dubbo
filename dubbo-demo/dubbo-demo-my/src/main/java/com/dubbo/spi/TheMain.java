@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 测试dubbo的一些功能
  * @author lla, 2021/1/4  9:10
  */
 public class TheMain {
@@ -16,6 +17,14 @@ public class TheMain {
         autoDI("jayChou", "ae86");
         // getCar("ae86");
         // getHuman("xiaoming");
+    }
+
+    /**
+     * 注解@Adaptive: 可以放到类上、接口的抽象方法上（根据URL确定使用哪个实现类）
+     */
+    private static void defaultExtension(){
+        // TestInterface object = extensionLoader.getAdaptiveExtension()
+        // object指向添加了@Adaptive注解的哪个类
     }
 
     private static void autoDI(String humanName, String carName){
