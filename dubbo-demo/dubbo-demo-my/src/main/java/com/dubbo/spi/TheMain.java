@@ -1,6 +1,7 @@
 package com.dubbo.spi;
 
 import com.dubbo.spi.api.Car;
+import com.dubbo.spi.api.DefaultAdaptive;
 import com.dubbo.spi.api.Human;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.common.extension.ExtensionLoader;
@@ -9,7 +10,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 测试dubbo的一些功能
  * @author lla, 2021/1/4  9:10
  */
 public class TheMain {
@@ -27,7 +27,7 @@ public class TheMain {
         // object指向添加了@Adaptive注解的哪个类
     }
 
-    private static void autoDI(String humanName, String carName){
+    private static void autoDI(String spiName, String spiFieldName){
         Map<String, String> map = new HashMap<>();
         map.put("carName", spiFieldName);
         URL url = new URL("", "", 1, map);

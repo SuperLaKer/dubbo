@@ -63,6 +63,7 @@
       <module name="dubbo-monitor-api" target="1.8" />
       <module name="dubbo-monitor-default" target="1.8" />
       <module name="dubbo-parent" target="1.8" />
+      <module name="dubbo-parent (1)" target="1.8" />
       <module name="dubbo-plugin" target="1.8" />
       <module name="dubbo-qos" target="1.8" />
       <module name="dubbo-registry" target="1.8" />

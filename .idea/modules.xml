@@ -55,6 +55,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-api/dubbo-monitor-api.iml" filepath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-api/dubbo-monitor-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-default/dubbo-monitor-default.iml" filepath="$PROJECT_DIR$/dubbo-monitor/dubbo-monitor-default/dubbo-monitor-default.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-parent.iml" filepath="$PROJECT_DIR$/dubbo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-parent (1).iml" filepath="$PROJECT_DIR$/dubbo-parent (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-plugin/dubbo-plugin.iml" filepath="$PROJECT_DIR$/dubbo-plugin/dubbo-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-plugin/dubbo-qos/dubbo-qos.iml" filepath="$PROJECT_DIR$/dubbo-plugin/dubbo-qos/dubbo-qos.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" filepath="$PROJECT_DIR$/dubbo-registry/dubbo-registry.iml" />
